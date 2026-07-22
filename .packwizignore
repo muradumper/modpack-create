@@ -30,3 +30,7 @@ servers.dat_old
 # resourcepacks/
 shaderpacks/
 servers.dat
+
+# os que geram automaticamente
+config/iris.properties
+downloads/

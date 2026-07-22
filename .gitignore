@@ -23,3 +23,7 @@ servers.dat_old
 # ignorar possiveis cache do packwiz
 .packwiz/
 packwiz.json
+
+# os que geram automaticamente
+config/iris.properties
+downloads/

@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:16
+renderDistance:12
 simulationDistance:12
 screenEffectScale:1.0
 soundDevice:""
@@ -44,11 +44,11 @@ toggleSprint:true
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
-mouseSensitivity:0.10211267605633803
+mouseSensitivity:0.10328638497652576
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:[]
+resourcePacks:["vanilla","mod_resources","file/Midnighttiggers-FCT-Default_1.20_V8.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
