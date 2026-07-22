@@ -1,5 +1,8 @@
 ## tudo que o packwiz na instalacao vai ignorar
 
+# só eu vou usar isso aqui mesmo
+sync.bat
+
 # instalador, ele é o proprio script entao tanto faz kkkkkkk
 packwiz-installer-bootstrap.jar
 

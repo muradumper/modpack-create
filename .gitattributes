@@ -1,4 +1,4 @@
-# Garante que arquivos de texto não mudem o hash no packwiz (uma ia falou pra fazer isso vamo ve se eh verdade)
+# garante na importação do projeto que eles sejam baixados em LF
 *.toml text eol=lf
 *.json text eol=lf
 *.txt text eol=lf
