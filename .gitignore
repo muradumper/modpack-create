@@ -6,7 +6,7 @@
 # ignorar arquivos temporarios
 .fabric/
 .mixin.out/
-## packwiz installer pode ta ignorado tambem
+# packwiz-installer-bootstrap.jar
 
 # ignorar dados locais do minecraft vanilla
 saves/
