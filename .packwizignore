@@ -29,6 +29,7 @@ options.txt
 servers.dat_old
 
 # lixo
+*.jar
 *.zip
 *.disabled
 
