@@ -18,7 +18,7 @@ hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
 file = "config/NoChatReports/README.md"
-hash = "f0decb31d974351dd9337caf02320d22470adec6b96411bb84596cdc73d77dac"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/citresewn.json"
@@ -42,7 +42,7 @@ hash = "7fcbb6fca8db5a2135e81cc60f100ab0981943eeacd19d2a153fc47f19812de8"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
-hash = "f8c5eefcd912afaf77e7ffee66227ccb2dfa318bd1e72239fd131ed0a1525d83"
+hash = "708750dc530ed52462185c7b1421291db8b292a350e164daaad437ba6f4fe4ef"
 
 [[files]]
 file = "config/embeddium-options.json"
@@ -86,23 +86,23 @@ hash = "4ced9e0309c6d35a787880b113ebfaf1ae77ea79dcfb919eee73cd66753500b1"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
-hash = "9cf580b889772edd244b5ea7cf42439bbae7bf2834bd759b819052d8f147e5fd"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
 
 [[files]]
 file = "config/konkrete/locals/en_us.local"
-hash = "7e47765e16c56722a24ff7343191913b00ef2c8493b7172c641d61c8b583b0d4"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
 
 [[files]]
 file = "config/konkrete/locals/pl_pl.local"
-hash = "29e0e9f6e599f34ce351814cd4bbfa1bbea884122aff4b5072bff105d94f6862"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
 
 [[files]]
 file = "config/konkrete/locals/pt_br.local"
-hash = "d53707bca34d3d11ef17642d819a4444550bf5d1c3557d0d8c19c5d47e46bbc4"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
 file = "config/lithium.properties"
-hash = "79348e4677fbd9474a18f772ecd271efebccdffed3a3f0bf2cc546e93d5c205a"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
 file = "config/mcqoy.toml"
@@ -114,7 +114,7 @@ hash = "ee24e2b1bc100942a1c605f996255742cd6a5bb3662877aa906bc301100ccf27"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "7e8d720c833d28878d1ea024a2fd55fd8c49e0a2969372396cb52f83fd1e4aad"
+hash = "d5cdbf28e513bee81e1c13db0000922dd0008778fa97021c2ed54de18b881545"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -126,7 +126,7 @@ hash = "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d"
 
 [[files]]
 file = "config/neoforge-common-1.toml.bak"
-hash = "75ab1000322aeb5a30150e9f8253548219dcc8b0bb071c10df9137db8c6ff3e1"
+hash = "b5e25c34930138ea9c4f43fda8a083c8295e971c8d433e059436923c6685c3b5"
 
 [[files]]
 file = "config/neoforge-common.toml"
@@ -138,7 +138,7 @@ hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
 
 [[files]]
 file = "config/ok_zoomer/config.json5"
-hash = "7c35050512519ae67dd8828edc8df0539d915d485ff979e9f245e77208c4abfc"
+hash = "32b13b2ce8cab76c065b5da73e392a0ab4117987e1e1af95899421af25c15d0d"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
@@ -158,7 +158,7 @@ hash = "1532b54332b9afb8bde425aecf70cbec08468171d26bde615f90723fff1b0fda"
 
 [[files]]
 file = "config/sodium-extra.properties"
-hash = "ab259e2369fc503c0cd905ec9b57b5867f4dbd249edf7a2b52193b36ffbcdeab"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/sodium-fingerprint.json"
@@ -166,7 +166,7 @@ hash = "a6c09d9f4e262804c2c048a5907a5b68aed8c1a6b6ab82e3b18925011e42215d"
 
 [[files]]
 file = "config/sodium-mixins.properties"
-hash = "5e979266f3c675f4c8c59ee8f60389ca778a71219d3d5a5d0006c9fd4e118bef"
+hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -178,7 +178,7 @@ hash = "77bf235ad019a8231369052e8e65bba4f2c61e83ec7b0a5e8b6753f0b6523b70"
 
 [[files]]
 file = "config/yacl.json5"
-hash = "8a201ac6b572e9b56ea1de77e13a8d6c8fab64c89727649346e22e6e27413577"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "icon.png"
