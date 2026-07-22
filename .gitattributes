@@ -1,5 +1,0 @@
-# garante na importação do projeto que eles sejam baixados em LF
-*.toml text eol=lf
-*.json text eol=lf
-*.txt text eol=lf
-*.cfg text eol=lf
