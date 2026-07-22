@@ -1,0 +1,25 @@
+# executaveis e desativados
+*.jar 
+*.zip
+*.disabled
+
+# ignorar arquivos temporarios
+.fabric/
+.mixin.out/
+## packwiz installer pode ta ignorado tambem
+
+# ignorar dados locais do minecraft vanilla
+saves/
+logs/
+crash-reports/
+shaderpacks/
+screenshots/
+usercache.json
+usernamecache.json
+# options.txt
+servers.dat
+servers.dat_old
+
+# ignorar possiveis cache do packwiz
+.packwiz/
+packwiz.json
