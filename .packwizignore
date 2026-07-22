@@ -1,0 +1,32 @@
+## tudo que o packwiz na instalacao vai ignorar
+
+# git e packwiz local controls
+.git/
+.gitignore
+.packwizignore
+.packwiz/
+packwiz.json
+
+# temp mod/loaders
+.cosmetica/
+.fabric/
+.mixin.out/
+usercache.json
+usernamecache.json
+
+# locais do player
+saves/
+logs/
+crash-reports/
+screenshots/
+options.txt
+servers.dat_old
+
+# lixo
+*.zip
+*.disabled
+
+# vai que mudo de ideia
+# resourcepacks/
+shaderpacks/
+servers.dat
