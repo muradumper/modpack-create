@@ -1,0 +1,13 @@
+name = "Midnighttigger's Default Connected Textures"
+filename = "Midnighttiggers-FCT-Default_1.20_V8.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f096b7d72d450e82d3f300a312d92b47284d8f6b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6913011
+project-id = 885553
