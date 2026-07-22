@@ -1,0 +1,5 @@
+# Garante que arquivos de texto não mudem o hash no packwiz (uma ia falou pra fazer isso vamo ve se eh verdade)
+*.toml text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.cfg text eol=lf
