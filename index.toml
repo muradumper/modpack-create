@@ -22,7 +22,7 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/appleskin-client.toml"
-hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
+hash = "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
 
 [[files]]
 file = "config/citresewn.json"
@@ -38,7 +38,7 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/e4mc/e4mc.toml"
-hash = "6e3023eaccd67fb8efe3eff2690b31de4e21b68cdf1856a62fd3e8c8dae75121"
+hash = "7619992f0d61c8656f2a37b5224779212f5b34808666db97216e89917bdd5515"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
@@ -70,11 +70,11 @@ hash = "2bda25bdc817e1d52f82a2b0635ceace2d2987a60b16db46cf3ca3c675efad1a"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
-hash = "949598a74966422d8d35610321eb09d789802804d3f0114be17b2f10f70905e8"
+hash = "19fb61e7f13abbaa2a3054976d40ce314f5826f5c8f7fd279417a0244bad45b3"
 
 [[files]]
 file = "config/fml.toml"
-hash = "d5f98507a05cfeb4b5b9927034cbe901ec9b2ded23348f1fdcd6130800c0ba2c"
+hash = "6abe509ea7db47b010aedbc80eac20b81f7f41870b1436d4210ab8c060f4fb9e"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -110,7 +110,7 @@ hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
 file = "config/mcqoy.toml"
-hash = "2a7da6c1dd8cb0b8653bdccd479cc0df81b28973a05b6d3330741287b9d6af8e"
+hash = "4e2ab14b046ec9e8ee4413f525b344b8ce2d617adf05f816477db06648035b28"
 
 [[files]]
 file = "config/modernfix-common.toml"
@@ -162,7 +162,7 @@ hash = "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "b3a566c6f18c730b5e41c706482d03cea3e7cf4672e6347f2297b90cae1b3b29"
+hash = "1532b54332b9afb8bde425aecf70cbec08468171d26bde615f90723fff1b0fda"
 
 [[files]]
 file = "config/sodium-extra.properties"
