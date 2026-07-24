@@ -1,0 +1,8 @@
+{
+  "schema_version": "2",
+  "override_defaults": true,
+  "default_packs": [
+    "vanilla",
+    "file/Midnighttiggers-FCT-Default_1.20_V8.zip"
+  ]
+}

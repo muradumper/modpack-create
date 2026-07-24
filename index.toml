@@ -145,6 +145,10 @@ file = "config/ok_zoomer/config.toml"
 hash = "c1b1f58354d3766de4581442e00a4d7da508a0639d10aad66c5d43d21bfee768"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "b5bb8604e6259e5eaecb07f8bdd6081888f83b583e434e4c9a72ee3ad81cdbf2"
+
+[[files]]
 file = "config/rrls.toml"
 hash = "88d9f88c8e370f113122770512c67e704a16c4ceed4f70755495c9ce5072cc92"
 
@@ -154,7 +158,7 @@ hash = "d587d9ebc653b2a98651d6bc7e5bfd6a8df01765e1db84d188d541091f1099cd"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "1447f30f0769aee37986d93db0f4970766365e2310eabd1f34129efe1331344f"
+hash = "5bf6a1ce6978c0d44903f99c87b1e2b09854cdf28c893f89d2d085fa73d1f9e1"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -175,6 +179,70 @@ hash = "be40d116c4d2eff2e12e2ebd811a6c365955acbfed39361cef22cbd23e0dd74f"
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
 hash = "77bf235ad019a8231369052e8e65bba4f2c61e83ec7b0a5e8b6753f0b6523b70"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "9cd195ad79a7fc97a86e9faebb968e6954ee3ba013948c29bc6f47df790b7ee2"
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "50eb0fd54bdc4357dc2259b0c0076b57e4679dbef141d4605fe45cd87a0fd33e"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "aaeea6b2f4468261cbd6c112e9a9e773a89979f2751e49b69a616d15fe995bb9"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "config/yacl.json5"
@@ -320,6 +388,11 @@ hash = "8f47f534372061308021b082fe67802a0bb6cb323e1dbbeb911c461b4cfe0518"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "0be0eb155428ec345bc5bdc9696da555de1aecf3f9f9a392cf5fa78588c0e1a9"
 metafile = true
@@ -332,6 +405,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "c9291e44e1fd34eddbc1a2a9d69a90cb6c29d214abe4d3f282d9eaed62fa3416"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "4c336c9a00838ff5b5bbf6cd8ae35927186fdfa42258ca15513835e1b12ced2f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "7481488cc878ce36f7cd69acfff4ffcdc24470916692a54798239331934c9a58"
 metafile = true
 
 [[files]]
