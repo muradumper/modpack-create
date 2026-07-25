@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
-hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
+hash = "be88d44466fd4d68eeead41352fecd920243858ee4ca18dcd6b5f9a728108412"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
@@ -10,7 +10,7 @@ hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
 
 [[files]]
 file = "config/NoChatReports/NCR-Encryption.json"
-hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
+hash = "ad41c18d8223070fe2a7566dd6d9baad76edc4424c8f6ee3c9e0c596eb7d5a3f"
 
 [[files]]
 file = "config/NoChatReports/NCR-ServerPreferences.json"
@@ -81,6 +81,26 @@ file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "5889c79b3e046c13f81c7ba8baf3def31d5437bd97578f06122720a7737afba1"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "dcaba5fd4e5e0d16be1224a853750ce4da2ba3cf28a408898cbf48fc2d913d62"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "6f06d7aadc0abe00f3781e982d1042400033d978f30d86102af0bc86b18fb6d3"
+
+[[files]]
 file = "config/justzoom/config.txt"
 hash = "4ced9e0309c6d35a787880b113ebfaf1ae77ea79dcfb919eee73cd66753500b1"
 
@@ -143,6 +163,10 @@ hash = "32b13b2ce8cab76c065b5da73e392a0ab4117987e1e1af95899421af25c15d0d"
 [[files]]
 file = "config/ok_zoomer/config.toml"
 hash = "c1b1f58354d3766de4581442e00a4d7da508a0639d10aad66c5d43d21bfee768"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "821a988acf4d3e7fce1a59a4b90f077b1dd5a1e3bb912bb11e8c79e562ae80df"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -333,6 +357,11 @@ hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "e8ad4c0b1a01858f6d653672472641f24aeacf7d6fb3b63a4358157312381a76"
 metafile = true
@@ -383,6 +412,11 @@ hash = "df9eeb2fda08c5d1004088997ef7232164ced9902b8e98c979ef2c9b38857e20"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "8f47f534372061308021b082fe67802a0bb6cb323e1dbbeb911c461b4cfe0518"
 metafile = true
@@ -428,6 +462,25 @@ hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
 metafile = true
 
 [[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "0ce41000cbbb72e9c03ae3738500aae1056f1102ddc4e5a46784ec18cabf6ca7"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mt-ct-d.pw.toml"
 hash = "517bfecc147f7a1f9bc8c0813e5eb61910381eb8da01ab99f17893dbf76ec5e8"
 metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-torches.pw.toml"
+hash = "09e766bb436b7b8a7d3115149721a8270387c17a6dadfbf7b12d1c28e1b9448d"
+metafile = true
+
+[[files]]
+file = "vanillateaks.md"
+hash = "36a1fb259d743bb1d0c8ed983ce6ae272144f387863389dbe8f91288923245d6"

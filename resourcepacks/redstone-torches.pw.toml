@@ -1,0 +1,13 @@
+name = "REDstone Torches"
+filename = "REDstone Torches 1.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VLnHEhAA/versions/e3wpgZUi/REDstone%20Torches%201.3.zip"
+hash-format = "sha512"
+hash = "f97b63b70feef9174188b91997d25f78921419840823649da221d2fe651cdff74fdfac2fcd8e1ecbdeedbed2c29ec75e397f8c76d148e9a1207d5ea1ffc60e86"
+
+[update]
+[update.modrinth]
+mod-id = "VLnHEhAA"
+version = "e3wpgZUi"
