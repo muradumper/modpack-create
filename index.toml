@@ -356,6 +356,11 @@ hash = "d126f045e2cc43c9142ea4bcb2acec1917351fc6416eb71bf0bc8d32f7bfe69f"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
 metafile = true
@@ -398,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "0be0eb155428ec345bc5bdc9696da555de1aecf3f9f9a392cf5fa78588c0e1a9"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "4bc3fe241b34b44d358b416c7e14dd2fd7eb0c0295735cabfba1fcfa55bca725"
 metafile = true
 
 [[files]]
