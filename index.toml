@@ -166,7 +166,7 @@ hash = "c1b1f58354d3766de4581442e00a4d7da508a0639d10aad66c5d43d21bfee768"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "821a988acf4d3e7fce1a59a4b90f077b1dd5a1e3bb912bb11e8c79e562ae80df"
+hash = "8817db31f2692f54bd7348212bdfa3f35eb22b0162961cefb9b650c7b526a67f"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
