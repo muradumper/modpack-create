@@ -205,6 +205,10 @@ file = "config/sodiumdynamiclights-client.toml"
 hash = "77bf235ad019a8231369052e8e65bba4f2c61e83ec7b0a5e8b6753f0b6523b70"
 
 [[files]]
+file = "config/vanillabackport-common.toml"
+hash = "9755dcf44f7b677858dee16f67acb6ee3bd2591656b41a13f3a11442ebc8603b"
+
+[[files]]
 file = "config/xaero/lib/client.cfg"
 hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
 
@@ -407,6 +411,11 @@ hash = "e08301069fb769d4cdf8aff75d7533126c80bfdfa682f09ba9ae98040ee725eb"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "df9eeb2fda08c5d1004088997ef7232164ced9902b8e98c979ef2c9b38857e20"
 metafile = true
@@ -442,6 +451,16 @@ hash = "c9291e44e1fd34eddbc1a2a9d69a90cb6c29d214abe4d3f282d9eaed62fa3416"
 metafile = true
 
 [[files]]
+file = "mods/tiny-takeover-backport.pw.toml"
+hash = "544c48f8c161bb1f7608feed0bb4f7cfa5311c4ca19dabae019472716b8d06d6"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "4c336c9a00838ff5b5bbf6cd8ae35927186fdfa42258ca15513835e1b12ced2f"
 metafile = true
@@ -453,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
