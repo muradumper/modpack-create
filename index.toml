@@ -170,7 +170,7 @@ hash = "821a988acf4d3e7fce1a59a4b90f077b1dd5a1e3bb912bb11e8c79e562ae80df"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "b5bb8604e6259e5eaecb07f8bdd6081888f83b583e434e4c9a72ee3ad81cdbf2"
+hash = "3aa26bbb84afb15e37087b870350805d4b37732c08ea8e904ef00b60d6b31aa8"
 
 [[files]]
 file = "config/rrls.toml"
@@ -209,68 +209,28 @@ file = "config/vanillabackport-common.toml"
 hash = "9755dcf44f7b677858dee16f67acb6ee3bd2591656b41a13f3a11442ebc8603b"
 
 [[files]]
-file = "config/xaero/lib/client.cfg"
-hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
-
-[[files]]
-file = "config/xaero/lib/common.cfg"
-hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
-
-[[files]]
-file = "config/xaero/lib/profiles/default.cfg"
-hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
-
-[[files]]
-file = "config/xaero/lib/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
 file = "config/xaero/minimap/client.cfg"
-hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
-
-[[files]]
-file = "config/xaero/minimap/common.cfg"
-hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
-
-[[files]]
-file = "config/xaero/minimap/default_radar_categories_client.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
-
-[[files]]
-file = "config/xaero/minimap/default_radar_categories_server.json"
-hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+hash = "0b46576737c27d22b61dda9c19bfc315c5352a6468fc422514c6750600d40528"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "9cd195ad79a7fc97a86e9faebb968e6954ee3ba013948c29bc6f47df790b7ee2"
+hash = "f1ff62b22cfc97486d00e8bd3367a3207f0a8da235e7b365c5aa2a54e3f8dc25"
 
 [[files]]
-file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
-
-[[files]]
-file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
-
-[[files]]
-file = "config/xaero/minimap/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+file = "config/xaero/minimap/profiles/sem_minimapa_sem_waypoint_no_mundo.cfg"
+hash = "b75d33ca52888dc2ca11fd5875ddaedab9ccaa41f771572c39f4b4d37826666d"
 
 [[files]]
 file = "config/xaero/world-map/client.cfg"
-hash = "50eb0fd54bdc4357dc2259b0c0076b57e4679dbef141d4605fe45cd87a0fd33e"
-
-[[files]]
-file = "config/xaero/world-map/common.cfg"
-hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+hash = "4a9825dbc07769e612d192c5558f49e6cc21e8450ab849b0c69b5d11cd4759f7"
 
 [[files]]
 file = "config/xaero/world-map/profiles/default.cfg"
-hash = "aaeea6b2f4468261cbd6c112e9a9e773a89979f2751e49b69a616d15fe995bb9"
+hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
 
 [[files]]
-file = "config/xaero/world-map/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+file = "config/xaero/world-map/profiles/padrao_modpack_create.cfg"
+hash = "8e7a1bc02b8b98d15c40014099a0288452b1b2d36b16aff16bc38483d9b485f9"
 
 [[files]]
 file = "config/yacl.json5"
@@ -358,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "298f2a99e309853181e71938c2358c4b2c7c6c19137dcf6bcefb736d43ab6f65"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement-neoforge.pw.toml"
+hash = "adaf48f66a09d2ee6176b134a065c70733aaaaf19bc75eb32c8c76973a63de59"
 metafile = true
 
 [[files]]
@@ -478,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "0be0eb155428ec345bc5bdc9696da555de1aecf3f9f9a392cf5fa78588c0e1a9"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "4bc3fe241b34b44d358b416c7e14dd2fd7eb0c0295735cabfba1fcfa55bca725"
 metafile = true
 
 [[files]]
