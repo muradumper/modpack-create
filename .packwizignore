@@ -9,6 +9,7 @@ packwiz-installer-bootstrap.jar
 .packwizignore
 .packwiz/
 packwiz.json
+vanillatweaks.md
 
 # temp mod/loaders
 .cosmetica/

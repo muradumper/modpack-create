@@ -469,7 +469,3 @@ metafile = true
 file = "resourcepacks/redstone-torches.pw.toml"
 hash = "09e766bb436b7b8a7d3115149721a8270387c17a6dadfbf7b12d1c28e1b9448d"
 metafile = true
-
-[[files]]
-file = "vanillateaks.md"
-hash = "36a1fb259d743bb1d0c8ed983ce6ae272144f387863389dbe8f91288923245d6"
