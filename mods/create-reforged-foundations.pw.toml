@@ -1,13 +1,14 @@
 name = "Create: Reforged Foundations"
-filename = "reforgedfoundations-1.21.1-2.0.1.jar"
-side = "server"
+filename = "CreateReforgedFoundations-1.6.0-NeoForge.jar"
+side = "both"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/Fr6AmYQ2/versions/kHxmEAce/reforgedfoundations-1.21.1-2.0.1.jar"
-hash-format = "sha512"
-hash = "ae31b05c6b9dd4507083d6ac7d3493a61f9528080eb1bc97b6ad167e141206133d830f8b4d9d08f1eb4133c2df46e699036991ff4d38bec59b76909fbcbd5e69"
+hash-format = "sha1"
+hash = "421d824f10f4d204c082c91189fd961dc3845e6a"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Fr6AmYQ2"
-version = "kHxmEAce"
+[update.curseforge]
+file-id = 6698048
+project-id = 1118674
