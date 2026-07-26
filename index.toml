@@ -266,8 +266,8 @@ hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
 metafile = true
 
 [[files]]
-file = "mods/create-reforged-foundations.pw.toml"
-hash = "b98112517c44e604b1c40efb30472f21757f8633fa26f48287951f79a285e057"
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
 metafile = true
 
 [[files]]
