@@ -266,6 +266,11 @@ hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
 file = "mods/create-mechanical-extruder.pw.toml"
 hash = "dd9ffc834ec8790d53e41c0ab6e784158158b69a78ffe4beea719d6b9e493cb8"
 metafile = true
@@ -273,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
 
 [[files]]
