@@ -138,7 +138,7 @@ hash = "cac2d434e5dfcd9d3e7b647cb4b825cef56a1e9ff0e23bfd4c22eea92b9bad5a"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "db63bd41fae1b92828f13b34b93215549ca167ccf44a4c09d050fe559fa203a5"
+hash = "689f73f9fab4e831dff286a126e4c7fb8a0587cd1220e9284235891cefc8f8f3"
 
 [[files]]
 file = "config/neoforge-client.toml"
@@ -456,6 +456,11 @@ hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
 metafile = true
 
 [[files]]
+file = "mods/rapid-leaf-decay.pw.toml"
+hash = "275d8e13b8bea48d95d511067bbf91ce99b38841e4461b44f9017b827dfbd8d2"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "8f47f534372061308021b082fe67802a0bb6cb323e1dbbeb911c461b4cfe0518"
 metafile = true
@@ -533,6 +538,11 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-creepers-revamped.pw.toml"
+hash = "ecef1b0a746d95a37732b62387b5dd68c6021cfdff4a39f70d5974bc88d833d3"
 metafile = true
 
 [[files]]
