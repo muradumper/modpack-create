@@ -546,6 +546,10 @@ hash = "ecef1b0a746d95a37732b62387b5dd68c6021cfdff4a39f70d5974bc88d833d3"
 metafile = true
 
 [[files]]
+file = "resourcepacks/crosshair.zip"
+hash = "1e589b09ea573bbf4f7a2b5cea401ad51fed9817cb78d9fbb9cf4bab614de8d1"
+
+[[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "0ce41000cbbb72e9c03ae3738500aae1056f1102ddc4e5a46784ec18cabf6ca7"
 metafile = true

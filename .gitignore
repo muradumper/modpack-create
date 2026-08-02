@@ -20,6 +20,8 @@ options.txt
 servers.dat
 servers.dat_old
 
+!resourcepacks/crosshair.zip
+
 # ignorar possiveis cache do packwiz
 .packwiz/
 packwiz.json
