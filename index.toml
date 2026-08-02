@@ -170,7 +170,7 @@ hash = "8817db31f2692f54bd7348212bdfa3f35eb22b0162961cefb9b650c7b526a67f"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "a77d9eed300c0a1b4f2ee4eb9cbe95915c2b47783c82d821e7bf1d4bef2315f7"
+hash = "5a53e8ee6c3b61e3dc8b21043785872e94e06d7c35dde69a71a79b579d95fbe6"
 
 [[files]]
 file = "config/rrls.toml"
@@ -202,7 +202,7 @@ hash = "be40d116c4d2eff2e12e2ebd811a6c365955acbfed39361cef22cbd23e0dd74f"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
-hash = "77bf235ad019a8231369052e8e65bba4f2c61e83ec7b0a5e8b6753f0b6523b70"
+hash = "bfbb0e30c202d7d6a173df99449f2a841f72371a0df8e50473b969f54d9b8670"
 
 [[files]]
 file = "config/vanillabackport-common.toml"
