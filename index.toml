@@ -170,7 +170,7 @@ hash = "8817db31f2692f54bd7348212bdfa3f35eb22b0162961cefb9b650c7b526a67f"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "5a53e8ee6c3b61e3dc8b21043785872e94e06d7c35dde69a71a79b579d95fbe6"
+hash = "72c5cb6484e6dba2ddac33e580ccd79de932651441f174fed0948df3389e9491"
 
 [[files]]
 file = "config/rrls.toml"
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/rapid-leaf-decay.pw.toml"
-hash = "275d8e13b8bea48d95d511067bbf91ce99b38841e4461b44f9017b827dfbd8d2"
+hash = "55ed9aff2efdfa5158924aa68b509b39410a81ebbcc3820dc7b20799c89c8c11"
 metafile = true
 
 [[files]]
