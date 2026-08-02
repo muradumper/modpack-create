@@ -170,7 +170,7 @@ hash = "8817db31f2692f54bd7348212bdfa3f35eb22b0162961cefb9b650c7b526a67f"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "3aa26bbb84afb15e37087b870350805d4b37732c08ea8e904ef00b60d6b31aa8"
+hash = "a77d9eed300c0a1b4f2ee4eb9cbe95915c2b47783c82d821e7bf1d4bef2315f7"
 
 [[files]]
 file = "config/rrls.toml"
