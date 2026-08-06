@@ -686,7 +686,7 @@
 
 	[tweaks.poison_potato_usage]
 		Chance = 0.1
-		"Poison Effect" = true
+		"Poison Effect" = false
 
 	[tweaks.reacharound_placing]
 		#Allowed values: [0,1]
