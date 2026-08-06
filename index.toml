@@ -166,7 +166,7 @@ hash = "c1b1f58354d3766de4581442e00a4d7da508a0639d10aad66c5d43d21bfee768"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "8817db31f2692f54bd7348212bdfa3f35eb22b0162961cefb9b650c7b526a67f"
+hash = "611d2687c3d9d9f63b0fac1f66d450bafb646bcbf3d5ba23fa52da01cf6564ac"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -256,8 +256,18 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
+file = "mods/bountiful.pw.toml"
+hash = "ba3b9990bc44bedb8eacbe11b2beffb7457cc6ddd854e78fcaf8d73d8f2578db"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "4b200d7009a78ce1d782d0b20585fcde46e6791bf23edf22a799a60729e924fd"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "09c4eef0fe467f04601c514ffc6ad805dd09ecb9975fce0f4b9792fbe56f0fde"
 metafile = true
 
 [[files]]
@@ -326,6 +336,11 @@ hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "bba89e9b06ee8b4274aab144d2eeb5769585bf834d4758288a9bcf100cbd3c29"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "ea67fcbd702909226736e0feb0d64df758e21e724d53a43730537c6bbf34d455"
 metafile = true
@@ -366,8 +381,23 @@ hash = "56192b462e0aba10e48943345e590388e43078504340b55cb17146f0a4c1e16c"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "37c3d507be086258aec8a0814224578a1c665749adbb0332d33c32a684086d94"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "4efdc3a8dbe691136c0a07d4ba16c62d3f21efdf05e8c17c6adbab4485c67f78"
 metafile = true
 
 [[files]]
@@ -386,8 +416,23 @@ hash = "06a7dd41efafdd02cd3d4b3eab59a1b8261d25c1ddd1d3d0af77418a5614b971"
 metafile = true
 
 [[files]]
+file = "mods/kambrik.pw.toml"
+hash = "8a5e76693f22343bb2306011ad8018337971256a6f3b25cb03680b1d7d7470c1"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "e8ad4c0b1a01858f6d653672472641f24aeacf7d6fb3b63a4358157312381a76"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-lang-forge.pw.toml"
+hash = "6d211d9120c2f1938908f8163b75105d1540ee7ea5e11538728653883e021f30"
 metafile = true
 
 [[files]]
@@ -501,8 +546,18 @@ hash = "c9291e44e1fd34eddbc1a2a9d69a90cb6c29d214abe4d3f282d9eaed62fa3416"
 metafile = true
 
 [[files]]
+file = "mods/talk-balloons.pw.toml"
+hash = "9aeae7cac482840a9c5482813fdf753e472cfc1eae891e2badf2f3701c942a99"
+metafile = true
+
+[[files]]
 file = "mods/tiny-takeover-backport.pw.toml"
 hash = "544c48f8c161bb1f7608feed0bb4f7cfa5311c4ca19dabae019472716b8d06d6"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
 metafile = true
 
 [[files]]
@@ -546,6 +601,16 @@ hash = "ecef1b0a746d95a37732b62387b5dd68c6021cfdff4a39f70d5974bc88d833d3"
 metafile = true
 
 [[files]]
+file = "resourcepacks/authentic-shadows.pw.toml"
+hash = "74b39d3c7f012e9332a20ac78fa6c357b227caccd6322049fb451ff2bef08c3a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/backported-cows.pw.toml"
+hash = "f3aec01c8ad48db1796c865c563f89fe4b2b52996960985de870e1a6b4a95e3d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/crosshair.zip"
 hash = "1e589b09ea573bbf4f7a2b5cea401ad51fed9817cb78d9fbb9cf4bab614de8d1"
 
@@ -560,6 +625,16 @@ hash = "517bfecc147f7a1f9bc8c0813e5eb61910381eb8da01ab99f17893dbf76ec5e8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/redstone-torch-backport.pw.toml"
+hash = "04772ae7827575d2295cff9fb90af5e4aaf66bf7fa585858f51400dc6574e93b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/redstone-torches.pw.toml"
 hash = "09e766bb436b7b8a7d3115149721a8270387c17a6dadfbf7b12d1c28e1b9448d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rstorch-backport-mod-supporter.pw.toml"
+hash = "bb0a37d928905947c9635401d6d00628affe9077a40bbc25f11418b6fa796513"
 metafile = true

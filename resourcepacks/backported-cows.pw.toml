@@ -1,0 +1,13 @@
+name = "Backported Cows"
+filename = "Backported Cows.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z0UMdrnG/versions/1aDayUV8/Backported%20Cows.zip"
+hash-format = "sha512"
+hash = "27efbb450f40d9f69b86765be8a76d4e75ebee44ea7700d59c15be75b242cd0963e0602e67f102034c59cf5a7e05d3ed49709fbe2ebcddb19f8812b3f4397e3c"
+
+[update]
+[update.modrinth]
+mod-id = "Z0UMdrnG"
+version = "1aDayUV8"
