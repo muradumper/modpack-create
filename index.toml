@@ -170,7 +170,7 @@ hash = "5fd1ef997ade27b621938d38d9f94e8e3b0fa0843644c564616cf3af3f0a57b3"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "9144bb1043c87f5d92e62cf4651bea367f566a053a8003626320e897e24be608"
+hash = "6c6bd815d5fe2a8754a52707c27aecb25be4b1b1034a88c8b7790c9fa311367d"
 
 [[files]]
 file = "config/rrls.toml"
@@ -658,6 +658,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/crosshair.zip"
 hash = "1e589b09ea573bbf4f7a2b5cea401ad51fed9817cb78d9fbb9cf4bab614de8d1"
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "8df090635327e96e723596b6bcc0318a270f825f3a168c28ad156ec5c9ada48d"
+metafile = true
 
 [[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
