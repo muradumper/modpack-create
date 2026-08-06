@@ -166,11 +166,11 @@ hash = "c1b1f58354d3766de4581442e00a4d7da508a0639d10aad66c5d43d21bfee768"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "611d2687c3d9d9f63b0fac1f66d450bafb646bcbf3d5ba23fa52da01cf6564ac"
+hash = "5fd1ef997ade27b621938d38d9f94e8e3b0fa0843644c564616cf3af3f0a57b3"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "72c5cb6484e6dba2ddac33e580ccd79de932651441f174fed0948df3389e9491"
+hash = "9144bb1043c87f5d92e62cf4651bea367f566a053a8003626320e897e24be608"
 
 [[files]]
 file = "config/rrls.toml"
@@ -627,11 +627,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/redstone-torch-backport.pw.toml"
 hash = "04772ae7827575d2295cff9fb90af5e4aaf66bf7fa585858f51400dc6574e93b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/redstone-torches.pw.toml"
-hash = "09e766bb436b7b8a7d3115149721a8270387c17a6dadfbf7b12d1c28e1b9448d"
 metafile = true
 
 [[files]]
