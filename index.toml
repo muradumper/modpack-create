@@ -202,7 +202,7 @@ hash = "be40d116c4d2eff2e12e2ebd811a6c365955acbfed39361cef22cbd23e0dd74f"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
-hash = "bfbb0e30c202d7d6a173df99449f2a841f72371a0df8e50473b969f54d9b8670"
+hash = "acfc6b53105d2875da152d172d8428daddc479c6b744a08758ce51907b3f5c26"
 
 [[files]]
 file = "config/vanillabackport-common.toml"
