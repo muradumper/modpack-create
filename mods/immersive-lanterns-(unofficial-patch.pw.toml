@@ -1,0 +1,13 @@
+name = "Immersive Lanterns (Unofficial-Fix)"
+filename = "immersivelanterns-1.0.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1nPJosGu/versions/7NfYb71A/immersivelanterns-1.0.7.jar"
+hash-format = "sha512"
+hash = "4ca1908197c8ccfab42830e3c60b9e0b938e04b064347be2dfec209b1828d9aecccdf8bb384cd245f43627f8fe816df61b17b068ab782156fd1fd187f9560e37"
+
+[update]
+[update.modrinth]
+mod-id = "1nPJosGu"
+version = "7NfYb71A"

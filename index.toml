@@ -170,7 +170,7 @@ hash = "5fd1ef997ade27b621938d38d9f94e8e3b0fa0843644c564616cf3af3f0a57b3"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "6c6bd815d5fe2a8754a52707c27aecb25be4b1b1034a88c8b7790c9fa311367d"
+hash = "5e0d453a145042860be10f6d7b16541be4c0dc360947e242fac3e72dc9c32af7"
 
 [[files]]
 file = "config/rrls.toml"
@@ -421,6 +421,11 @@ hash = "37c3d507be086258aec8a0814224578a1c665749adbb0332d33c32a684086d94"
 metafile = true
 
 [[files]]
+file = "mods/immersive-lanterns-(unofficial-patch.pw.toml"
+hash = "24f45aa3800bb6046416bf5c88c9b1c0d96c075c53c5954fc2d02968c5d68fe3"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "4efdc3a8dbe691136c0a07d4ba16c62d3f21efdf05e8c17c6adbab4485c67f78"
 metafile = true
@@ -665,8 +670,18 @@ hash = "8df090635327e96e723596b6bcc0318a270f825f3a168c28ad156ec5c9ada48d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fusion-emissive-ores.pw.toml"
+hash = "b6b1f215533954f72c7728e77b44fd9d97b80fd927f442c40298d7251c69a584"
+metafile = true
+
+[[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "0ce41000cbbb72e9c03ae3738500aae1056f1102ddc4e5a46784ec18cabf6ca7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-shield-pack.pw.toml"
+hash = "49ce362dab16a0b74da1e388627bce9513495e9cd9bffac724674a456c60a46f"
 metafile = true
 
 [[files]]
