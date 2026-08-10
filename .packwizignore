@@ -31,8 +31,9 @@ servers.dat_old
 *.zip
 *.disabled
 
+!resourcepacks/crosshair.zip
+
 # vai que mudo de ideia
-# resourcepacks/
 shaderpacks/
 servers.dat
 
