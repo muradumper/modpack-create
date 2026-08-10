@@ -205,6 +205,10 @@ file = "config/sodiumdynamiclights-client.toml"
 hash = "acfc6b53105d2875da152d172d8428daddc479c6b744a08758ce51907b3f5c26"
 
 [[files]]
+file = "config/solcarrot-server.toml"
+hash = "b5dc93748f2b5704445f79ec00c2fabe5fd56bb897355ff0e7dce04024f1d6f7"
+
+[[files]]
 file = "config/talk_balloons.json5"
 hash = "ff8494dcb54fe2d35e43cf3135c72a19c4aad34adc39ef76819d3f8a89c05641"
 
