@@ -205,6 +205,10 @@ file = "config/sodiumdynamiclights-client.toml"
 hash = "acfc6b53105d2875da152d172d8428daddc479c6b744a08758ce51907b3f5c26"
 
 [[files]]
+file = "config/talk_balloons.json5"
+hash = "ff8494dcb54fe2d35e43cf3135c72a19c4aad34adc39ef76819d3f8a89c05641"
+
+[[files]]
 file = "config/vanillabackport-common.toml"
 hash = "9755dcf44f7b677858dee16f67acb6ee3bd2591656b41a13f3a11442ebc8603b"
 
@@ -572,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "4bc3fe241b34b44d358b416c7e14dd2fd7eb0c0295735cabfba1fcfa55bca725"
+hash = "4d09486515db5baeaf01c0d6e6a3fefb64a947d42c66b6d5a68f7242cc1a88fc"
 metafile = true
 
 [[files]]
